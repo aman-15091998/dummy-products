@@ -1,0 +1,114 @@
+{
+  "products": [
+    {
+      "category": "Electronics",
+      "images": [
+        "https://images-na.ssl-images-amazon.com/images/I/71Swqqe7XAL._AC_SX679_.jpg",
+        "https://m.media-amazon.com/images/I/71Swqqe7XAL._AC_UF894,1000_QL80_.jpg"
+      ],
+      "name": "Apple iPhone 14 Pro Max",
+      "markedPrice": 149900,
+      "price": 139900,
+      "quantity": 10
+    },
+    {
+      "category": "Fashion",
+      "images": [
+        "https://m.media-amazon.com/images/I/71KL4gUzRXL._AC_UF894,1000_QL80_.jpg",
+        "https://m.media-amazon.com/images/I/811DzXq4sIL._AC_UF894,1000_QL80_.jpg"
+      ],
+      "name": "Levis Men's 501 Original Fit Jeans",
+      "markedPrice": 6999,
+      "price": 4999,
+      "quantity": 25
+    },
+    {
+      "category": "Electronics",
+      "images": [
+        "https://m.media-amazon.com/images/I/6125mF7HCPL._AC_UF894,1000_QL80_.jpg",
+        "https://m.media-amazon.com/images/I/71uG2R6yyKL._AC_UF894,1000_QL80_.jpg"
+      ],
+      "name": "Sony Bravia KD-55X80K 55-inch 4K Ultra HD Smart Android TV",
+      "markedPrice": 89990,
+      "price": 79990,
+      "quantity": 5
+    },
+    {
+      "category": "Beauty",
+      "images": [
+        "https://m.media-amazon.com/images/I/71012N544XL._AC_UF894,1000_QL80_.jpg",
+        "https://m.media-amazon.com/images/I/71012N544XL._AC_UF894,1000_QL80_.jpg"
+      ],
+      "name": "L'Oreal Paris Revitalift Hyaluronic Acid Serum",
+      "markedPrice": 1299,
+      "price": 999,
+      "quantity": 50
+    },
+    {
+      "category": "Home",
+      "images": [
+        "https://m.media-amazon.com/images/I/81Xw732Q4eL._AC_UF894,1000_QL80_.jpg",
+        "https://m.media-amazon.com/images/I/713Z+2807CL._AC_UF894,1000_QL80_.jpg"
+      ],
+      "name": "Philips Air Purifier 2000 Series",
+      "markedPrice": 24999,
+      "price": 19999,
+      "quantity": 8
+    },
+    {
+      "category": "Books",
+      "images": [
+        "https://m.media-amazon.com/images/I/61e555hH9EL._AC_UF894,1000_QL80_.jpg",
+        "https://m.media-amazon.com/images/I/717s0Qz17ZL._AC_UF894,1000_QL80_.jpg"
+      ],
+      "name": "The Alchemist by Paulo Coelho",
+      "markedPrice": 399,
+      "price": 299,
+      "quantity": 100
+    },
+    {
+      "category": "Sports",
+      "images": [
+        "https://m.media-amazon.com/images/I/6125mF7HCPL._AC_UF894,1000_QL80_.jpg",
+        "https://m.media-amazon.com/images/I/71uG2R6yyKL._AC_UF894,1000_QL80_.jpg"
+      ],
+      "name": "Red Bull Energy Drink",
+      "markedPrice": 120,
+      "price": 100,
+      "quantity": 200
+    },
+    {
+      "category": "Grocery",
+      "images": [
+        "https://m.media-amazon.com/images/I/6125mF7HCPL._AC_UF894,1000_QL80_.jpg",
+        "https://m.media-amazon.com/images/I/71uG2R6yyKL._AC_UF894,1000_QL80_.jpg"
+      ],
+      "name": "Nestle Maggi Instant Noodles",
+      "markedPrice": 40,
+      "price": 35,
+      "quantity": 500
+    },
+    {
+      "category": "Toys",
+      "images": [
+        "https://m.media-amazon.com/images/I/6125mF7HCPL._AC_UF894,1000_QL80_.jpg",
+        "https://m.media-amazon.com/images/I/71uG2R6yyKL._AC_UF894,1000_QL80_.jpg"
+      ],
+      "name": "Barbie Dreamhouse",
+      "markedPrice": 12999,
+      "price": 9999,
+      "quantity": 20
+    },
+    {
+      "category": "Automotive",
+      "images": [
+        "https://m.media-amazon.com/images/I/6125mF7HCPL._AC_UF894,1000_QL80_.jpg",
+        "https://m.media-amazon.com/images/I/71uG2R6yyKL._AC_UF894,1000_QL80_.jpg"
+      ],
+      "name": "Motul 5W-30 Fully Synthetic Engine Oil",
+      "markedPrice": 2500,
+      "price": 2200,
+      "quantity": 50
+    }
+  ]
+}
